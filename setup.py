@@ -148,7 +148,7 @@ setup_args = dict(
         "python-dateutil==2.5.3",
         "pytsk3==20160226",
         "pytz==2016.4",
-        "urllib3==1.14",
+        "urllib3==1.26.5",
         "protobuf==2.6.1",
         "wheel==0.29",
     ],
