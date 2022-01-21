@@ -140,7 +140,7 @@ setup_args = dict(
         "PyYAML==3.11",
         "binplist==0.1.4",
         "ipaddr==2.1.11",
-        "ipython==4.1.1",
+        "ipython==7.16.3",
         "pip>=8.1.1,<9",
         "psutil==4.0.0",
         "pyaml==15.8.2",
