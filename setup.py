@@ -149,7 +149,7 @@ setup_args = dict(
         "pytsk3==20160226",
         "pytz==2016.4",
         "urllib3==1.14",
-        "protobuf==2.6.1",
+        "protobuf==3.18.3",
         "wheel==0.29",
     ],
     extras_require={
