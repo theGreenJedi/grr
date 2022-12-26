@@ -150,7 +150,7 @@ setup_args = dict(
         "pytz==2016.4",
         "urllib3==1.14",
         "protobuf==2.6.1",
-        "wheel==0.29",
+        "wheel==0.38.1",
     ],
     extras_require={
         # The following requirements are needed in Windows.
